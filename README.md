@@ -1,5 +1,5 @@
 # web design projects
 
 <ul>
-<li><a href="Impact of social media on society_html"/index.html" target="_blank">Impact of social media on society</a><li>
+<li><a href="Intro to HTML"/index.html" target="_blank">Intro to HTML</a><li>
 </ul>
